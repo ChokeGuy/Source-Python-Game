@@ -1,0 +1,21 @@
+Sát thương gây ra
+Sát thương nhận vào
+Sát thương từng loại vũ khí
+Thời gian chơi 
+Lượng máu hồi phục
+Số quái giết được
+Vũ khí nào được sử dụng trong trò chơi
+
+
+
+Vũ khí nào được sử dụng nhiều nhất
+
+Sát thương trung bình của mỗi vũ khí
+
+Top những vũ khí nhiều sát thương nhất
+
+Kinh nghiệm,số lượng quái,thời gian chơi,hồi máu trung bình của game
+
+
+
+

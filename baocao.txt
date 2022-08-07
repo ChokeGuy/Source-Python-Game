@@ -1,0 +1,20 @@
+Slide 1:
+Thông tin Sinh Viên
+Tên Đồ Án
+Slide 2,3:
+Chức năng của đồ án
+các thao tác với bàn phím:
+Q: đổi vũ khí
+E: đổi phép 
+W,S,A,D: Di chuyển lên,xuống,trái,phải
+M:Tinh chỉnh các chỉ số nhân vật
+ESC:Dừng game
+Trái chuột:Sử dụng vũ khí
+Phải chuột:Sử dụng phép
+về dữ liệu:
+thu thập dữ liệu qua từng màn chơi và lưu vào file thongke.csv
+dữ liệu bao gồm: giờ chơi,lượng kinh nghiệm nhận được từ quái,số lần sử dụng mỗi vũ khí,lượng máu hồi phục,
+tổng sát thương của từng vũ khí,số lượng game hoàn thành và thất bại,lượng sát nhương nhận từ quái,..
+phân tích dữ liệu và vẽ biểu đồ thống kê bằng pandas,matplotlib
+Slide 4:
+demo
